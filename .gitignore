@@ -1,0 +1,14 @@
+# Local OS and Python artifacts
+.DS_Store
+__pycache__/
+*.py[cod]
+
+# Environment files and private keys
+.env*
+*.key
+*.pem
+*.p12
+*.pfx
+
+# Personal editions, source records and evidence belong outside the checkout.
+/editions/
